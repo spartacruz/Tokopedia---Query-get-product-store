@@ -1,0 +1,1094 @@
+{
+    "data": {
+        "GetShopProduct": {
+            "status": "",
+            "errors": "",
+            "links": {
+                "prev": "https://ace.tokopedia.com/v1/web-service/shop/get_shop_product?etalase_id=etalase&order_by=1&page=1&per_page=240&shop_id=8838239",
+                "next": "",
+                "__typename": "ShopProductListLink"
+            },
+            "data": [
+                {
+                    "name": "Stomach Tube Fr 18 panjang 125cm OneMed",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/stomach-tube-fr-18-panjang-125cm-onemed",
+                    "product_id": "1060184065",
+                    "price": {
+                        "text_idr": "Rp 8.200",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/30/105463589/105463589_52c7251e-1b17-42ec-ab4d-ddfb3f6ae0bc_500_500",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/30/105463589/105463589_52c7251e-1b17-42ec-ab4d-ddfb3f6ae0bc_500_500",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/30/105463589/105463589_52c7251e-1b17-42ec-ab4d-ddfb3f6ae0bc_500_500",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 18",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 2,
+                        "rating": 100,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Stomach Tube Fr 16 panjang 125cm OneMed",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/stomach-tube-fr-16-panjang-125cm-onemed",
+                    "product_id": "1060179067",
+                    "price": {
+                        "text_idr": "Rp 8.200",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/30/105463589/105463589_8f2b204a-d498-423a-9578-b0a849ef26e0_500_500",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/30/105463589/105463589_8f2b204a-d498-423a-9578-b0a849ef26e0_500_500",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/30/105463589/105463589_8f2b204a-d498-423a-9578-b0a849ef26e0_500_500",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 15",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Gold Merchant",
+                            "image_url": "https://images.tokopedia.net/img/gold-active-large.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 3,
+                        "rating": 100,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Stomach Tube Fr 14 panjang 125cm OneMed",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/stomach-tube-fr-14-panjang-125cm-onemed",
+                    "product_id": "1060174083",
+                    "price": {
+                        "text_idr": "Rp 8.200",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/30/105463589/105463589_f3c8264f-1bd3-4c12-b9f6-6eb57c8f6ab9_500_500",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/30/105463589/105463589_f3c8264f-1bd3-4c12-b9f6-6eb57c8f6ab9_500_500",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/30/105463589/105463589_f3c8264f-1bd3-4c12-b9f6-6eb57c8f6ab9_500_500",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 20",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 3,
+                        "rating": 100,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Sarung Tangan Latex Exam Safeglove Ekonomis - L",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/sarung-tangan-latex-exam-safeglove-ekonomis-l",
+                    "product_id": "1048289915",
+                    "price": {
+                        "text_idr": "Rp 123.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/24/105463589/105463589_fe95ec0c-e827-4d60-8dff-b570b53b5029_1280_1280",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/24/105463589/105463589_fe95ec0c-e827-4d60-8dff-b570b53b5029_1280_1280",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/24/105463589/105463589_fe95ec0c-e827-4d60-8dff-b570b53b5029_1280_1280",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 48",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 2,
+                        "rating": 100,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Sarung Tangan Latex Exam Safeglove Ekonomis - M",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/sarung-tangan-latex-exam-safeglove-ekonomis-m",
+                    "product_id": "1048287791",
+                    "price": {
+                        "text_idr": "Rp 123.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/24/105463589/105463589_9db8338e-457a-4d12-aeda-a496f6c406a9_1280_1280",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/24/105463589/105463589_9db8338e-457a-4d12-aeda-a496f6c406a9_1280_1280",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/24/105463589/105463589_9db8338e-457a-4d12-aeda-a496f6c406a9_1280_1280",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 21",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 8,
+                        "rating": 97,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Sarung Tangan Latex Exam Safeglove Ekonomis - S",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/sarung-tangan-latex-exam-safeglove-ekonomis-s",
+                    "product_id": "1048281933",
+                    "price": {
+                        "text_idr": "Rp 123.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/24/105463589/105463589_11db4f48-f5ff-4e9c-84ab-214edaed7677_700_700",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/24/105463589/105463589_11db4f48-f5ff-4e9c-84ab-214edaed7677_700_700",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/24/105463589/105463589_11db4f48-f5ff-4e9c-84ab-214edaed7677_700_700",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 37",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 9,
+                        "rating": 100,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "OneMed WWZ + Kantong (COVER) alat kompress",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/onemed-wwz-kantong-cover-alat-kompress",
+                    "product_id": "1040810145",
+                    "price": {
+                        "text_idr": "Rp 23.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/21/105463589/105463589_4c3110cf-749c-4a5d-b13a-d664412aa516_700_700",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/21/105463589/105463589_4c3110cf-749c-4a5d-b13a-d664412aa516_700_700",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/21/105463589/105463589_4c3110cf-749c-4a5d-b13a-d664412aa516_700_700",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 46",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 20,
+                        "rating": 100,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "OneMed WWZ",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/onemed-wwz",
+                    "product_id": "1040541517",
+                    "price": {
+                        "text_idr": "Rp 17.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/21/105463589/105463589_9c64b615-0721-4929-b03a-d1eef28d0bb7_501_501",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/21/105463589/105463589_9c64b615-0721-4929-b03a-d1eef28d0bb7_501_501",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/21/105463589/105463589_9c64b615-0721-4929-b03a-d1eef28d0bb7_501_501",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 25",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 11,
+                        "rating": 98,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "TENSIMETER DIGITAL DENGAN SUARA TensiOne 1A OneMed",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/tensimeter-digital-dengan-suara-tensione-1a-onemed",
+                    "product_id": "1024667966",
+                    "price": {
+                        "text_idr": "Rp 350.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/14/105463589/105463589_e340a09f-f981-4a54-8abf-4ffb6c33f962_700_700",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/14/105463589/105463589_e340a09f-f981-4a54-8abf-4ffb6c33f962_700_700",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/14/105463589/105463589_e340a09f-f981-4a54-8abf-4ffb6c33f962_700_700",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 26",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 18,
+                        "rating": 100,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Masker Non Medis Onemed Box Isi 50Pcs",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/masker-non-medis-onemed-box-isi-50pcs",
+                    "product_id": "1002436585",
+                    "price": {
+                        "text_idr": "Rp 19.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/3/16/a20e118a-b9de-4c19-bded-0ed7fc7a7d99.jpg",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/3/16/a20e118a-b9de-4c19-bded-0ed7fc7a7d99.jpg",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/3/16/a20e118a-b9de-4c19-bded-0ed7fc7a7d99.jpg",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 1,4 rb",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Gold Merchant",
+                            "image_url": "https://images.tokopedia.net/img/gold-active-large.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 245,
+                        "rating": 98,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Oxyflow Bubble Nasal Canule Oxygen Selang Oksigen Dewasa Besmed",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/oxyflow-bubble-nasal-canule-oxygen-selang-oksigen-dewasa-besmed",
+                    "product_id": "992365911",
+                    "price": {
+                        "text_idr": "Rp 6.300",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/3/batch-upload/batch-upload_3e7cf131-2bf0-4e65-8431-aacf3422aad5.jpg",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/3/batch-upload/batch-upload_3e7cf131-2bf0-4e65-8431-aacf3422aad5.jpg",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/3/batch-upload/batch-upload_3e7cf131-2bf0-4e65-8431-aacf3422aad5.jpg",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 32",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 10,
+                        "rating": 100,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Baju APD Type 1412 (Disposable Protective Coverall Putih)",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/baju-apd-type-1412-disposable-protective-coverall-putih-l",
+                    "product_id": "940836235",
+                    "price": {
+                        "text_idr": "Rp 87.500",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/6/18/batch-upload/batch-upload_a746e7c4-4a6f-4ec4-ba00-68d1aa772b23",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/6/18/batch-upload/batch-upload_a746e7c4-4a6f-4ec4-ba00-68d1aa772b23",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/6/18/batch-upload/batch-upload_a746e7c4-4a6f-4ec4-ba00-68d1aa772b23",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 3",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 2,
+                        "rating": 100,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Kacamata Goggle Full Protect Onemed",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/kacamata-goggle-full-protect-onemed",
+                    "product_id": "940831636",
+                    "price": {
+                        "text_idr": "Rp 31.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/2/105463589/105463589_8106f039-fff7-4d39-9fa6-68e49446a9c9_1280_1280",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/2/105463589/105463589_8106f039-fff7-4d39-9fa6-68e49446a9c9_1280_1280",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/2/105463589/105463589_8106f039-fff7-4d39-9fa6-68e49446a9c9_1280_1280",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 14",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 3,
+                        "rating": 100,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Masker Jilbab Green OneMed box 50pcs",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/masker-jilbab-green-onemed-box-50pcs",
+                    "product_id": "940830376",
+                    "price": {
+                        "text_idr": "Rp 39.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/2/17/14c3ddd2-b3cb-4f03-a3c9-482e91048dc8.jpg",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/2/17/14c3ddd2-b3cb-4f03-a3c9-482e91048dc8.jpg",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/2/17/14c3ddd2-b3cb-4f03-a3c9-482e91048dc8.jpg",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 832",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 206,
+                        "rating": 99,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Thermometer Head Yuwell Infrared YT-1 Duo Sensor termometer",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/thermometer-head-yuwell-infrared-yt-1-duo-sensor-termometer",
+                    "product_id": "940601478",
+                    "price": {
+                        "text_idr": "Rp 295.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/6/18/batch-upload/batch-upload_e7cc18b8-5c45-4101-86a7-ba57658d6479",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/6/18/batch-upload/batch-upload_e7cc18b8-5c45-4101-86a7-ba57658d6479",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/6/18/batch-upload/batch-upload_e7cc18b8-5c45-4101-86a7-ba57658d6479",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 34",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 10,
+                        "rating": 100,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "One Swabs Kapas Alkohol 2ply OneMed box 100pcs",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/one-swabs-kapas-alkohol-2ply-onemed-box-100pcs",
+                    "product_id": "940599255",
+                    "price": {
+                        "text_idr": "Rp 9.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/6/18/batch-upload/batch-upload_67c57d2d-91bc-4b5f-85b4-1e4c9fa5b9a7",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/6/18/batch-upload/batch-upload_67c57d2d-91bc-4b5f-85b4-1e4c9fa5b9a7",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/6/18/batch-upload/batch-upload_67c57d2d-91bc-4b5f-85b4-1e4c9fa5b9a7",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 642",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 45,
+                        "rating": 99,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                },
+                {
+                    "name": "Alkohol 70% OneMed 1Liter",
+                    "product_url": "https://www.tokopedia.com/onemedlampung/alkohol-70-onemed-1liter",
+                    "product_id": "940598815",
+                    "price": {
+                        "text_idr": "Rp 32.000",
+                        "__typename": "ProductListPrice"
+                    },
+                    "primary_image": {
+                        "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/6/18/batch-upload/batch-upload_42d3f315-b774-47e5-8847-ead4ef77ea25.jpg",
+                        "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/6/18/batch-upload/batch-upload_42d3f315-b774-47e5-8847-ead4ef77ea25.jpg",
+                        "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/6/18/batch-upload/batch-upload_42d3f315-b774-47e5-8847-ead4ef77ea25.jpg",
+                        "__typename": "ProductListPrimaryImage"
+                    },
+                    "flags": {
+                        "isSold": true,
+                        "isPreorder": false,
+                        "isWholesale": false,
+                        "isWishlist": false,
+                        "__typename": "ProductListFlagNew"
+                    },
+                    "campaign": {
+                        "discounted_percentage": "0",
+                        "original_price_fmt": "",
+                        "start_date": "",
+                        "end_date": "",
+                        "__typename": "ProductDetailCampaignType"
+                    },
+                    "label": [],
+                    "label_groups": [
+                        {
+                            "position": "status",
+                            "title": "Stok Habis",
+                            "type": "transparentBlack",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "gimmick",
+                            "title": "Rp3.200/100 ml",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        },
+                        {
+                            "position": "integrity",
+                            "title": "Terjual 452",
+                            "type": "textDarkGrey",
+                            "url": "",
+                            "__typename": "tomeLabelGroup"
+                        }
+                    ],
+                    "badge": [
+                        {
+                            "title": "Power Merchant Pro Badge",
+                            "image_url": "https://images.tokopedia.net/img/goldmerchant/pm_activation/badge/PM%20Pro%20Small.png",
+                            "__typename": "ShopBadge"
+                        }
+                    ],
+                    "stats": {
+                        "reviewCount": 126,
+                        "rating": 99,
+                        "__typename": "ProductListStats"
+                    },
+                    "category": {
+                        "id": "0",
+                        "__typename": "ProductListCategory"
+                    },
+                    "__typename": "ShopProductListDetail"
+                }
+            ],
+            "__typename": "ShopProductList"
+        }
+    }
+}
