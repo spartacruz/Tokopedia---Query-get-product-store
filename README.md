@@ -17,8 +17,9 @@ Here some snippets from their API
 }``
 
 For now, ``shop_id`` have to be provided manually... 
-
 Next project, will add a built-in function to retrive it programmaticaly. User only need to provide a store page link (e.g https://www.tokopedia.com/onemed)
+
+Will generate json file that contain all product_sku information on a store. Later on, you could use this service https://data.page/ to transform it into tabular format.
 
 
 NB:
