@@ -22,6 +22,7 @@ Next project, will add a built-in function to retrive it programmaticaly. User o
 
 
 NB:
+
 *This code could be used as long as there is no significant change on tokopedia API
 
 *Do with your own risk.
