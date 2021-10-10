@@ -72,6 +72,4 @@ else: #if empty list
 
 exportSukses = "Done!!!"
 ctypes.windll.user32.MessageBoxW(0, exportSukses, "Exported", 0)
-
-#def getStoreCode():
   
