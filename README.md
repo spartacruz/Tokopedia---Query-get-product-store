@@ -19,3 +19,6 @@ Here some snippets from their API
 For now, ``shop_id`` have to be provided manually... 
 
 Next project, will add a built-in function to retrive it programmaticaly. User only need to provide a store page link (e.g https://www.tokopedia.com/onemed)
+
+
+*This code could be used as long as there is no significant change on tokopedia API
